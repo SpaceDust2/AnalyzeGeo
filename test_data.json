@@ -1,0 +1,56 @@
+[
+  {
+    "accountId": 1001,
+    "address": "Москва, улица Тверская, дом 1",
+    "buildingType": "Многоквартирный",
+    "roomsCount": 2,
+    "residentsCount": 2,
+    "totalArea": 45.5,
+    "consumption": { "1": 150, "2": 140, "12": 160 }
+  },
+  {
+    "accountId": 1002,
+    "address": "Санкт-Петербург, Невский проспект, дом 1",
+    "buildingType": "Многоквартирный",
+    "roomsCount": 3,
+    "residentsCount": 3,
+    "totalArea": 67.2,
+    "consumption": { "1": 180, "2": 170, "12": 190 }
+  },
+  {
+    "accountId": 1003,
+    "address": "Краснодарский край, город Анапа, улица Ленина, дом 1",
+    "buildingType": "Частный",
+    "roomsCount": 4,
+    "residentsCount": 2,
+    "totalArea": 120.0,
+    "consumption": { "1": 220, "2": 210, "12": 240 }
+  },
+  {
+    "accountId": 1004,
+    "address": "Краснодарский край, район Анапский, село Витязево, проезд Летний, дом 2 А",
+    "buildingType": "Частный",
+    "roomsCount": 3,
+    "residentsCount": 1,
+    "totalArea": 89.3,
+    "consumption": { "1": 180, "2": 175, "12": 185 }
+  },
+  {
+    "accountId": 1005,
+    "address": "Краснодарский край, район Анапский, село Супсех, улица Цветочная, дом 28",
+    "buildingType": "Частный",
+    "roomsCount": 2,
+    "residentsCount": 2,
+    "totalArea": 56.8,
+    "consumption": { "1": 140, "2": 135, "12": 150 }
+  },
+  {
+    "accountId": 1006,
+    "address": "Краснодарский край, район Анапский, село Витязево, улица Горького, дом 33",
+    "buildingType": "Частный",
+    "roomsCount": 5,
+    "residentsCount": 4,
+    "totalArea": 145.2,
+    "consumption": { "1": 280, "2": 270, "12": 295 }
+  }
+] 
